@@ -1,5 +1,5 @@
 # DEMO-PROJECT
-HELLO WORLD
+HELLO WORLD!
 <br>
 This is my first Git Repository
 <br>
